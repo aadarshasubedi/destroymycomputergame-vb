@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DestroyMyComputer\Game.vb" ctype="Workbench">
+    <Files>
+      <File FileName="DestroyMyComputer\Game.vb" Line="393" Column="5" />
+      <File FileName="DestroyMyComputer\AudioPlayback.vb" Line="66" Column="35" />
+      <File FileName="c:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerRewrite\DragonOgg\OggFile.cs" Line="99" Column="55" />
+      <File FileName="DragonOgg\OggPlayer.cs" Line="1" Column="1" />
+      <File FileName="DragonOgg\OpenTK-License.txt" Line="1" Column="1" />
+      <File FileName="DragonOgg\OggPlayerVBN.cs" Line="237" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DestroyMyComputer" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Resources" expanded="True" />
+            <Node name="Game.vb" selected="True" />
+          </Node>
+          <Node name="DragonOgg" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>

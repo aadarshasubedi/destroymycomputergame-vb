@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DestroyMyComputerGame/Game.vb" ctype="Workbench">
+    <Files>
+      <File FileName="DestroyMyComputerGame/Damage.vb" Line="3" Column="2" />
+      <File FileName="DestroyMyComputerGame/Flame.vb" Line="3" Column="2" />
+      <File FileName="DestroyMyComputerGame/Game.vb" Line="251" Column="83" />
+      <File FileName="DestroyMyComputerGame/Gfx.vb" Line="1" Column="1" />
+      <File FileName="DestroyMyComputerGame/MathOps.vb" Line="1" Column="1" />
+      <File FileName="DestroyMyComputerGame/Screenshot.vb" Line="1" Column="1" />
+      <File FileName="DestroyMyComputerGame/TexLib.vb" Line="1" Column="1" />
+      <File FileName="DestroyMyComputerGame/ScreenSize.vb" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Destroy My Computer" expanded="True" selected="True">
+            <Node name="References" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="Flames" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>

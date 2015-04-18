@@ -1,0 +1,63 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Screenshot.vb" caret="1319" fromTop="26" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:MathOps.vb" caret="458" fromTop="0" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Flame.vb" caret="95" fromTop="4" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Damage.vb" caret="730" fromTop="16" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:ScreenSize.vb" caret="469" fromTop="13" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Sound.vb" caret="11453" fromTop="10" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="5754" fromTop="31" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="25071" fromTop="11" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="25345" fromTop="20" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="61928" fromTop="13" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="64317" fromTop="1" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="63779" fromTop="9" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="64205" fromTop="9" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="9189" fromTop="8" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="2083" fromTop="16" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="64970" fromTop="16" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="9827" fromTop="14" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Sound.vb" caret="7114" fromTop="13" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Sound.vb" caret="8081" fromTop="22" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="11475" fromTop="27" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="29265" fromTop="17" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="45645" fromTop="11" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="16295" fromTop="13" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="61455" fromTop="19" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="61678" fromTop="21" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Sound.vb" caret="6703" fromTop="18" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="35108" fromTop="23" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="21662" fromTop="15" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="33735" fromTop="20" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="11395" fromTop="19" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="22516" fromTop="20" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="22387" fromTop="15" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="23170" fromTop="15" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Game.vb" caret="3599" fromTop="23" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Sound.vb" caret="6703" fromTop="10" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Sound.vb" caret="2737" fromTop="15" />
+      <File id="27E85B4D-B7A4-4D3C-842A-7A6D6435A388/f:Sound.vb" caret="11453" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

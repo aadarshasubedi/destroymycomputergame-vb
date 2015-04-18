@@ -1,0 +1,342 @@
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleDestaurated.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleSmall.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleDeSat.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass1.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass2.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass3.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.ogg
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\machinegun.ogg
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rifle.ogg
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgun.ogg
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Sapphire_Hammer.ico
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\basicBulletHole.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.wav
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHole.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleNoColor.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\favicon.ico
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\TempSndMixer.exe
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgunBulletHole.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.exe
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.pdb
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.exe
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.pdb
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0000.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0001.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0002.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0003.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0004.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0005.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0006.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0007.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0008.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0009.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0010.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0011.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0012.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0013.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0014.png
+C:\Users\Scott\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\burn.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.exe
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.pdb
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleDestaurated.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleSmall.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleDeSat.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass1.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass2.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass3.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.ogg
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\machinegun.ogg
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rifle.ogg
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgun.ogg
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\burn.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0000.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0001.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0002.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0003.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0004.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0005.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0006.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0007.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0008.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0009.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0010.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0011.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0012.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0013.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0014.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Sapphire_Hammer.ico
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\basicBulletHole.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.wav
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHole.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleNoColor.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\favicon.ico
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\TempSndMixer.exe
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgunBulletHole.png
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.exe
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.pdb
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.GLControl.dll
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\ResolveAssemblyReference.cache
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll.config
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll.config
+E:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.exe
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.pdb
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleDestaurated.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleSmall.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleDeSat.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass1.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass2.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\crackedGlass3.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.ogg
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\machinegun.ogg
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rifle.ogg
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgun.ogg
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll.config
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll.config
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\burn.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0000.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0001.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0002.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0003.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0004.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0005.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0006.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0007.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0008.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0009.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0010.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0011.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0012.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0013.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0014.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Sapphire_Hammer.ico
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\basicBulletHole.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.wav
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHole.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHoleNoColor.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\favicon.ico
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\TempSndMixer.exe
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgunBulletHole.png
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.exe
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.pdb
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.GLControl.dll
+F:\DestroyMyComputerCleanedUp\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\01.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\02.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\03.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\04.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\05.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\06.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll.config
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\favicon.ico
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0000.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0001.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0002.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0003.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0004.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0005.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0006.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0007.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0008.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0009.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0010.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0011.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0012.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0013.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0014.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.exe
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.pdb
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.exe
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.pdb
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHole.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\burn.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\fire.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\machinegun.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgun.wav
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rifleBulletHole.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\sgBulletHole.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll.config
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll.config
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHole.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\favicon.ico
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgun.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\sgBulletHole.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rifleBulletHole.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\burn.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\fire.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\machinegun.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\01.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\02.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\03.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\04.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\05.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\06.wav
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0000.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0001.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0002.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0003.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0004.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0005.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0006.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0007.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0008.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0009.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0010.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0011.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0012.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0013.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0014.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.exe
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.pdb
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.GLControl.dll
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\ResolveAssemblyReference.cache
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.exe
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.pdb
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.exe
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.pdb
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll.config
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll.config
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHole.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\favicon.ico
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgun.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenAL32.dll
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\sgBulletHole.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rifleBulletHole.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\burn.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\fire.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\machinegun.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\01.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\02.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\03.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\04.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\05.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\06.wav
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0000.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0001.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0002.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0003.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0004.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0005.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0006.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0007.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0008.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0009.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0010.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0011.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0012.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0013.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0014.png
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.exe
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.pdb
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.GLControl.dll
+F:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\ResolveAssemblyReference.cache
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\single_texture\flameanimation.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.exe
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.pdb
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll.config
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll.config
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHole.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\favicon.ico
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgun.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\single_texture\flameanimation.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\sgBulletHole.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rifleBulletHole.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\burn.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\fire.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\machinegun.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\01.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\02.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\03.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\04.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\05.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\06.wav
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0000.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0001.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0002.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0003.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0004.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0005.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0006.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0007.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0008.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0009.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0010.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0011.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0012.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0013.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0014.png
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.exe
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.pdb
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.GLControl.dll
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\ResolveAssemblyReference.cache
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\OpenALSoft\OpenAL32.dll
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\OpenALSoft\OpenAL32.dll
+L:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rasterizedNumbersCombinedScaled.png
+E:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rasterizedNumbersCombinedScaled.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\single_texture\flameanimation.png
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\OpenALSoft\OpenAL32.dll
+C:\Users\Dylan Taylor\Desktop\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rasterizedNumbersCombinedScaled.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.exe
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\DestroyMyComputerGame.pdb
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll.config
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll.config
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\backgroundMusic.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\bulletHole.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\favicon.ico
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\shotgun.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\single_texture\flameanimation.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\OpenALSoft\OpenAL32.dll
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rasterizedNumbersCombinedScaled.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\sgBulletHole.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\rifleBulletHole.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\burn.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\fire.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\machinegun.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\01.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\02.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\03.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\04.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\05.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\RifleSounds\06.wav
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0000.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0001.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0002.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0003.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0004.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0005.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0006.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0007.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0008.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0009.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0010.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0011.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0012.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0013.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\Resources\Flames\0014.png
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.exe
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\DestroyMyComputerGame.pdb
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.Compatibility.dll
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.dll
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\bin\Debug\OpenTK.GLControl.dll
+G:\DestroyMyComputerRewrite\DestroyMyComputerGame\obj\Debug\ResolveAssemblyReference.cache
